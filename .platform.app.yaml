@@ -15,7 +15,7 @@ variables:
         APP_ENV: 'env'
         APP_DEBUG: 0
         DATABASE_URL: mysql://user:@database.internal:3306/main
-        APP_NAME: S1/TestTheme
+        APP_NAME: TestTheme
         APP_SECRET: studio1234
 
 # The hooks that will be performed when the package is deployed.
