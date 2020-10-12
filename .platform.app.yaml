@@ -2,7 +2,7 @@
 # in the same project.
 
 # The name of this app. Must be unique within a project.
-name: app
+name: S1/TestTheme
 
 # The type of the application to build.
 type: php:7.3
@@ -15,6 +15,8 @@ variables:
         APP_ENV: 'env'
         APP_DEBUG: 0
         DATABASE_URL: mysql://user:@database.internal:3306/main
+        APP_NAME: S1/TestTheme
+        APP_SECRET: studio1234
 
 # The hooks that will be performed when the package is deployed.
 hooks:

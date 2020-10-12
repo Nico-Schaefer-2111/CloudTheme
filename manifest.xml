@@ -1,0 +1,16 @@
+<manifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/shopware/app-system/0.1.0/src/Core/Content/App/Manifest/Schema/manifest-1.0.xsd">
+    <meta>
+        <name>S1/TestTheme</name>
+        <label>Test Theme</label>
+        <label lang="de-DE">Test Theme</label>
+        <description>Dies ist ein Test Theme und keinesfalls für eine Porduktivumgebung geeignet!</description>
+        <description lang="de-DE">This is a test theme and not for production use!</description>
+        <author>Studio1</author>
+        <copyright>(c) Studio1</copyright>
+        <version>1.0</version>
+    </meta>
+    <setup>
+        <registrationURL>https://schieferstubecloudtest.shopware.store/</registrationURL>
+        <secret>studio1234</secret>
+    </setup>
+</manifest>

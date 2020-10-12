@@ -1,0 +1,9 @@
+{
+  "name": "S1/TestTheme",
+  "author": "Nicolas Schaefer",
+  "views": [
+    "@Storefront",
+    "@Plugins",
+    "@DemoTheme"
+  ]
+}

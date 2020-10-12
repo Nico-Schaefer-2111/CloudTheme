@@ -14,7 +14,7 @@ use PHPUnit\Framework\TestCase;
 
 class ClientTest extends TestCase
 {
-    private const SHOP_URL = 'https://www.test-shop.de';
+    private const SHOP_URL = 'https://schieferstubecloudtest.shopware.store/';
 
     private $client;
 
